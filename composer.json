@@ -1,0 +1,19 @@
+{
+    "name": "cd365/try1",
+    "description": "This is a trial project.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cd365\\Try1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cosasce",
+            "email": "cosasce@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
